@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install node packages
 
-Run `npm install` from this folder using cmd/terminal. It will installed all the required npm packages.
+Run `npm install` from this folder using cmd/terminal. It will installed all the required node packages.
 
 ## Development server
 
